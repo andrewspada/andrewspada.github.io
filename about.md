@@ -1,1 +1,0 @@
-my names andrew. I like learning about computers.
