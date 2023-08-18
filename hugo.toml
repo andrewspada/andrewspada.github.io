@@ -3,3 +3,21 @@ languageCode = 'en-us'
 title = "Andrew's Blog"
 publishDir = 'docs'
 theme = 'etch'
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+
+[permalinks]
+  posts = "/:title/"
