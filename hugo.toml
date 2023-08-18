@@ -1,4 +1,5 @@
 baseURL = 'https://s-video.github.io'
 languageCode = 'en-us'
-title = 'Andrew's Blog'
+title = "Andrew's Blog"
 publishDir = 'docs'
+theme = 'etch'
