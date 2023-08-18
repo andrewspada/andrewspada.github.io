@@ -10,5 +10,23 @@
 	<atom:link href="https://s-video.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    
+    <item>
+      <title>Hello</title>
+      <link>https://s-video.github.io/hello/</link>
+      <pubDate>Fri, 18 Aug 2023 09:00:50 -0400</pubDate>
+      
+      <guid>https://s-video.github.io/hello/</guid>
+      <description>&lt;p&gt;After messing with GitHub Pages, Hugo, and Jekyll for a while, I think I&amp;rsquo;ve finally decided on a workflow for blogging.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m using Hugo, and the GitHub repository for this site holds the Hugo project directory. GitHub looks in the /docs folder for the static website files to serve when you visit this domain.&lt;/p&gt;
+&lt;p&gt;I have a local copy of the repository, where I make changes to website source files (like markdown files, etc.), and I use Hugo to rebuild the site into /docs when I&amp;rsquo;m done editing something. Then I just push the change.&lt;/p&gt;
+&lt;p&gt;This post is mostly just to test it out and have something instead of nothing.&lt;/p&gt;
+&lt;p&gt;Maybe I&amp;rsquo;ll write a post detailing how to set this up and covering what I&amp;rsquo;ve learned of Hugo and GitHub Pages.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    
   </channel>
 </rss>
