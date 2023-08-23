@@ -1,5 +1,6 @@
 ---
 title: "Hello"
+slug: "hello"
 date: 2023-08-18T09:00:50-04:00
 draft: false
 ---

@@ -20,4 +20,4 @@ theme = 'etch'
     weight = 20
 
 [permalinks]
-  posts = "/:title/"
+  posts = "/:slug/"
