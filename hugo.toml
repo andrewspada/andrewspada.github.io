@@ -4,6 +4,9 @@ title = "Andrew's Blog"
 publishDir = 'docs'
 theme = 'etch'
 
+[params]
+  mainSections = ['posts']
+
 [menu]
   [[menu.main]]
     identifier = "posts"
